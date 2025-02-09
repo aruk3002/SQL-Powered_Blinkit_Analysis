@@ -1,7 +1,8 @@
 # **🚀 Blinkit Database Schema Design**  
 
 ## 🔹 **About the Project**  
-An optimized **SQL database schema** for **Blinkit**, designed to enhance **order processing, inventory tracking, and delivery efficiency** in a **10-minute delivery system**.  
+An optimized **SQL database schema** for **Blinkit**, 
+designed to enhance **order processing, inventory tracking, and delivery efficiency** in a **10-minute delivery system**.  
 
 ## 📌 **Core Features**  
 ✅ **Well-structured relational schema** for smooth data flow  
