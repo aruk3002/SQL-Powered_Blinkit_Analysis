@@ -11,20 +11,20 @@ designed to enhance **order processing, inventory tracking, and delivery efficie
 • **Case study** on real-world problem-solving  
 
 ## 🏗 **Database Structure**  
-🔹 **Users** – Customer details  
-🔹 **Products** – Item catalog  
-🔹 **Inventory** – Stock tracking  
-🔹 **Orders & Order Items** – Order processing  
-🔹 **Payments** – Transaction records  
-🔹 **Riders & Deliveries** – Delivery fulfillment  
+• **Users** – Customer details  
+• **Products** – Item catalog  
+• **Inventory** – Stock tracking  
+• **Orders & Order Items** – Order processing  
+• **Payments** – Transaction records  
+• **Riders & Deliveries** – Delivery fulfillment  
 
 ## 📊 **SQL Insights & Analysis**  
-🔸 **Top-selling products** 📈  
-🔸 **Delivery efficiency tracking** 🚴‍♂️  
-🔸 **Stock availability monitoring** 🏪  
-🔸 **Customer spending patterns** 💰  
+• **Top-selling products** 📈  
+• **Delivery efficiency tracking** 🚴‍♂️  
+• **Stock availability monitoring** 🏪  
+• **Customer spending patterns** 💰  
 
 ## ⚙️ **Tech Stack Used**  
-🔹 **Database:** PostgreSQL  
-🔹 **Tool:** pgAdmin 4  
-🔹 **Query Language:** SQL  
+• **Database:** PostgreSQL  
+• **Tool:** pgAdmin 4  
+• **Query Language:** SQL  
